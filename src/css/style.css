@@ -188,6 +188,28 @@ input[type= checkbox]{
     color: #bdbdbd;
 }
 
+/* Footer */
+footer.footer {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin: 70px 0;
+    color: #A9A9A9;
+}
+
+.footer__paragraph{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 17px;
+    font-size: 14px;
+}
+
+.footer__link {
+    text-decoration: none;
+    color: #A9A9A9;
+}
+
 
 @media only screen and (min-width: 768px){
     body{
